@@ -1,1 +1,1 @@
-# COVID19 Tableau Visualizations
+# COVID-19 Tableau Visualizations
